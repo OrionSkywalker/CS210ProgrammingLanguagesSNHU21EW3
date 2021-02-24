@@ -22,8 +22,10 @@ This was the first project in the class, a clock display. There were some issues
 #What did you do particularly well?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Because I am still very new to C++ I am not sure I did anything particularly well, I would say that I managed the advancement of both a 24 and 12 hour clock well enough.
+
 #Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
-This would be an interesting project to come back to if/when I begin learning about GUI programming. I spent days trying to find a way to accept input while in a for loop, I would definitely come back and solve that piece of the challenge.
+
+This would be an interesting project to come back to if/when I begin learning about GUI programming. I spent days trying to find a way to accept input while in a for loop, I would definitely come back and solve that piece of the challenge. I don't anticipate any security concerns with an app like this, aside from someone writing code to make it seem like an innocent clock and including malicious code that is hidden but now has access to the system it is running on. 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
