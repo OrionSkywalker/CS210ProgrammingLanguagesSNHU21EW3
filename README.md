@@ -17,7 +17,7 @@ Title: Clocks Flowchart
         i. If “Yes” to second, then “Add 1 Second.” Then back to “Clear screen”.
         ii. If “No” to second, then back to “Clear screen”.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>       
-This was the first project in the class, a clock display. There were some issues with the project requirements, as they seemed to be flawed. I could not find a good method to simultaneously advance a clock, which necessitated being in a loop, and actively accepting user input as the project requirements asked. I simply coded a clock that allowed the user to set the initial time and advance the clock with the menu choices outlined in the project requirements. I enjoyed the project because it was a good way to practice for loops and see the results of the loop easily.
+This was the first project in the class, a clock display. There were some issues with the project requirements, as they seemed to be flawed. I could not find a good method to simultaneously advance a clock, which necessitated being in a loop, and actively accepting user input as the project requirements asked. I simply coded a clock that allowed the user to set the initial time and advance the clock with the menu choices outlined in the project requirements. I enjoyed the project because it was a good way to practice using conditional advancement and see the results of the choices easily.
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #What did you do particularly well?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -25,11 +25,11 @@ Because I am still very new to C++ I am not sure I did anything particularly wel
 
 #Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 
-This would be an interesting project to come back to if/when I begin learning about GUI programming. I spent days trying to find a way to accept input while in a for loop, I would definitely come back and solve that piece of the challenge. I don't anticipate any security concerns with an app like this, aside from someone writing code to make it seem like an innocent clock and including malicious code that is hidden but now has access to the system it is running on. 
+This would be an interesting project to come back to if/when I begin learning about GUI programming. I spent days trying to find a way to accept input while in a loop, I would definitely come back and solve that piece of the challenge. I don't anticipate any security concerns with an app like this, aside from someone writing code to make it seem like an innocent clock and including malicious code that is hidden but now has access to the system it is running on. 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #Did you find writing any piece of this code challenging, and how did you overcome this? What tools and/or resources are you adding to your support network?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-I looked at how other people wrote loops to advance clocks and used them as guidelines, I found many helpful pointers on stackoverflow. 
+I looked at how other people wrote conditions to advance clocks and used them as guidelines, I found many helpful pointers on stackoverflow. 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #What skills from this project will be particularly transferable to other projects and/or course work?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -37,4 +37,4 @@ I think one of the best things about this project is just that it got me in fron
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 #How did you make this program maintainable, readable, and adaptable?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-I tried to convery as much information as possible with my comments, while trying to keep them manageable. I used the comments to leave the remnants of an attempt at getting input while in a loop so that if anyone sees where I messed up while trying that they can point it out. Detecting key hits seemed like a useful skill and so I have this to come back to if I learn enough to do it well. 
+I tried to convery as much information as possible with my comments, while trying to keep them manageable. I used the comments to leave the remnants of an attempt at getting input while also advancing time so that if anyone sees where I messed up while trying that they can point it out. Detecting key hits seemed like a useful skill and so I have this to come back to if I learn enough to do it well. 
